@@ -1,3 +1,3 @@
 # Olga's First Scala Project
 
-:laughing:
+Following along with a book!
